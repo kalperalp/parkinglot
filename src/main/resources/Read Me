@@ -1,0 +1,30 @@
+//You can create parking lot like this example:
+
+{
+  "capacity": 20,
+  "city": "İstanbul",
+  "name": "İspark",
+  "priceList": [
+    {
+      "hourlyPricing": 10,
+      "lowerHour": 0,3
+      "upperHour": 2
+    },{
+      "hourlyPricing": 12,
+      "lowerHour": 2,
+      "upperHour": 4
+    },{
+      "hourlyPricing": 15,
+      "lowerHour": 4,
+      "upperHour": 8
+    },{
+      "hourlyPricing": 17,
+      "lowerHour": 8,
+      "upperHour": 14
+    },{
+      "hourlyPricing": 20,
+      "lowerHour": 14,
+      "upperHour": 24
+    }
+  ]
+}
